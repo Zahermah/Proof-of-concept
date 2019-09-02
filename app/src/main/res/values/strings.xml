@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Proof of concept</string>
+    <string name="search">Search</string>
+    <string name="enter_origin_address">My Position</string>
+    <string name="enter_destination_address">Your Destination</string>
+    <string name="find_path">Find Path</string>
+    <string name="dialog_title">Oh no</string>
+    <string name="dialog_message">Seems that you tried to get a destination. Im sorry but this function is not implemented yet </string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome to my humble app</string>
+    <string name="enjoy">I hope your enjoy your stay here</string>
+    <string name="search_hint">Type a word</string>
+    <string name="title_activity_bottom_navigation_acitivty">BottomNavigationAcitivty</string>
+    <string name="title_search">Search</string>
+    <string name="title_ocr">Ocr</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
+    <string name="google_maps_key">AIzaSyAM6rVUCnWh3c-gIa0WcyLpxpmDkJiF9n0</string>
+    <string name="google_pay">Google pay</string>
+</resources>
